@@ -1,3 +1,4 @@
 - Hi there, I'm Luís, I am a solo developer and a 3d enthusiastic, with a taste for entrepreneurship.
 - Right now, I am building a high-level game engine called Lit Engine!
-- I love learning new things and technologies that have the power to change the way you and I see the world. I am learning c++.
+- I love learning new things and technologies that have the power to change the way you and I see the world.
+- I am learning c++.
