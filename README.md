@@ -1,5 +1,5 @@
 # 👋 Hello World!
-I'm Luís, a high-school student developing Lit Engine, a game engine aimed at simplifying game development.
+I'm Luís, a high-school student developing OneShot, a large scale spiking neural net, and Lit Engine, a game engine aimed at simplifying game development.
 
 # About Me
 I love diving into technologies with the power to reshape our world. My current focus is on mastering C++ to push the boundaries of game development, but I'm also trying some machine learning.
@@ -27,9 +27,13 @@ I love diving into technologies with the power to reshape our world. My current 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+![Vulkan](https://img.shields.io/badge/Vulkan-AE0F28?logo=Vulkan&logoColor=fff)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![SQlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
 # Get in Touch
 
