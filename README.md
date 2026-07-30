@@ -1,16 +1,19 @@
 # 👋 Hello World!
-I'm Luís, a high-school student developing OneShot, a large scale spiking neural net, and Lit Engine, a game engine aimed at simplifying game development.
+I'm Luís, a high-school student developing OneShot, a large scale Spiking Neural Net. I also developed Lit Engine, a game engine aimed at simplifying game development.
 
 # About Me
-I love diving into technologies with the power to reshape our world. My current focus is on mastering C++ to push the boundaries of game development, but I'm also trying some machine learning.
+I love diving into technologies with the power to reshape our world. My current focus is on mastering C++ and math to push the boundaries of what I can do, and I'm also trying some machine learning.
 
 ## Achievements
 
-- [x] Launched Lit Engine website
+- [x] Launched Lit Engine website (taken offline)
 - [X] 1k+ Commits in Lit Engine
 - [X] Have a working AI model
-- [ ] Reached 100 GitHub stars
+- [X] Reached 50 GitHub stars
 - [ ] Featured in Game Developer Magazine
+
+## Notes
+I am currently developing a SNN called OneShot. It features a brand new training mechanism that I'm working on but the source code is not available to the public. It is being developed in private in a homelab.
 
 ## Skills
 ## Languages
@@ -37,9 +40,6 @@ I love diving into technologies with the power to reshape our world. My current 
 
 # Get in Touch
 
-Feel free to reach out to me if you have any questions or just want to chat about game development or entrepreneurship!
+Feel free to reach out to me if you have any questions or just want to chat about game development, AI or entrepreneurship!
 
-
-[![Twitter Follow](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheLitEngine)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCP38rM1LFbABOVdd67p2-NQ)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XqUZQCxrs6)
